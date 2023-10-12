@@ -1,0 +1,5 @@
+Pour I allant de 0 à 10 EXCLUS, FAIRE 
+S <- S + I 
+fin pour 
+afficher S 
+
